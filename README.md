@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **project**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **VUEJS**
 
-- 📫 How to reach me **mjhumu611@gmail.com**
+- 📫 How to reach me **jhuma.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
